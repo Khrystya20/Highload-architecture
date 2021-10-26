@@ -1,7 +1,7 @@
 <h1>Highload-architecture</h1>
 <p>Before creating VPC I configured aws by using command <code>aws configure</code></p>
-<p>AWS Access Key ID [None]: AKIAT3ZOJHTFI5LFSM7K<br/>
-AWS Secret Access Key [None]: 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<br/>
+<p>AWS Access Key ID [None]: some key <br/>
+AWS Secret Access Key [None]: some key <br/>
 Default region name [None]: eu-west-2<br/>
 Default output format [None]: json<br/></p>
 <h2>Create VPC</h2>
